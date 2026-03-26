@@ -37,7 +37,7 @@ To address this issue, a solution was designed to automatically send daily remin
       - Create new Service Account.
       - Download JSON Key.
 4. Open your Google Calendar and share the calendar with the service account email.
-5; Get Account SID, Auth Token and Phone Number from Twilio.
+5. Get Account SID, Auth Token and Phone Number from Twilio.
 6. Use Google Cloud Secret Manager to store:
       - TWILIO_ACCOUNT_SID
       - TWILIO_AUTH_TOKEN
